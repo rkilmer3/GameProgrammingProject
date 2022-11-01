@@ -1,0 +1,4 @@
+To Implement Later
+- Classifications of different environments
+- Unfreezing of character's Z-axis position on said terrain. If character becomes airborne, reset position back to neutral.
+- Maybe make child of terrain such as in a loop de loop?
