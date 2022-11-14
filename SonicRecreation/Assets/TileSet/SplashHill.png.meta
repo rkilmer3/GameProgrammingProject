@@ -1,0 +1,6632 @@
+fileFormatVersion: 2
+guid: 22c4afb33d3e93f4aa9c7dcb937643e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8623198758039661541
+    second: Splash_BG
+  - first:
+      213: -1872453160930803800
+    second: SplashHill_1
+  - first:
+      213: -6535408851586957403
+    second: SplashHill_2
+  - first:
+      213: -4198917154017147604
+    second: SplashHill_3
+  - first:
+      213: -645438343661495160
+    second: SplashHill_4
+  - first:
+      213: 8294346245734013988
+    second: SplashHill_5
+  - first:
+      213: -3607810252431198594
+    second: SplashHill_6
+  - first:
+      213: -1365451510802787486
+    second: SplashHill_7
+  - first:
+      213: 5891724119162808350
+    second: SplashHill_8
+  - first:
+      213: -1345859663907023643
+    second: SplashHill_9
+  - first:
+      213: -1114218448562746293
+    second: SplashHill_10
+  - first:
+      213: -6970046814384117904
+    second: SplashHill_11
+  - first:
+      213: 4664536686134443502
+    second: SplashHill_12
+  - first:
+      213: 9135686544659640664
+    second: SplashHill_13
+  - first:
+      213: 6232521817173154859
+    second: SplashHill_14
+  - first:
+      213: -3959730037732702571
+    second: SplashHill_15
+  - first:
+      213: -5562486480800559130
+    second: SplashHill_16
+  - first:
+      213: -8628823028767392074
+    second: SplashHill_17
+  - first:
+      213: 6105986494878085721
+    second: SplashHill_18
+  - first:
+      213: 8448817602657256361
+    second: SplashHill_19
+  - first:
+      213: -7083807834896135844
+    second: SplashHill_20
+  - first:
+      213: 5833925847941394489
+    second: SplashHill_21
+  - first:
+      213: -8447986801229834788
+    second: SplashHill_22
+  - first:
+      213: 5680224626172678827
+    second: SplashHill_23
+  - first:
+      213: 5157035636292137661
+    second: Splash_Chk1
+  - first:
+      213: -2969785001386827613
+    second: SplashHill_25
+  - first:
+      213: 6408011802625826994
+    second: SplashHill_26
+  - first:
+      213: -1702633231328979979
+    second: SplashHill_27
+  - first:
+      213: 1287634897177066496
+    second: SplashHill_28
+  - first:
+      213: 73027467424186618
+    second: SplashHill_29
+  - first:
+      213: 5510125207521473455
+    second: SplashHill_30
+  - first:
+      213: -8570790349313421922
+    second: SplashHill_31
+  - first:
+      213: -8296222727294500986
+    second: SplashHill_32
+  - first:
+      213: 7442040103382700253
+    second: SplashHill_33
+  - first:
+      213: -4433659771531818217
+    second: SplashHill_34
+  - first:
+      213: 3909551299963080607
+    second: SplashHill_35
+  - first:
+      213: -5712665597485889774
+    second: SplashHill_36
+  - first:
+      213: 1005895866434602222
+    second: SplashHill_37
+  - first:
+      213: 2246956329029551229
+    second: SplashHill_38
+  - first:
+      213: -3650806555908240956
+    second: SplashHill_39
+  - first:
+      213: 8317151591382574597
+    second: Splash_Chk2
+  - first:
+      213: -7489823643361829698
+    second: Splash_Edge_R
+  - first:
+      213: 1816573760695754182
+    second: SplashHill_42
+  - first:
+      213: -7740233150843713129
+    second: SplashHill_43
+  - first:
+      213: -5745348954757962004
+    second: SplashHill_44
+  - first:
+      213: 2753522780062019570
+    second: SplashHill_45
+  - first:
+      213: -4447527182904755185
+    second: SplashHill_46
+  - first:
+      213: 691135905126389460
+    second: SplashHill_47
+  - first:
+      213: -828758113739475464
+    second: SplashHill_48
+  - first:
+      213: -7036959251008266585
+    second: SplashHill_49
+  - first:
+      213: -9064012471272508781
+    second: SplashHill_50
+  - first:
+      213: 218865182524304038
+    second: SplashHill_51
+  - first:
+      213: -2705752988844106805
+    second: SplashHill_52
+  - first:
+      213: -9183756145098806811
+    second: SplashHill_53
+  - first:
+      213: 7204136198163145002
+    second: SplashHill_54
+  - first:
+      213: 1628058649926494889
+    second: SplashHill_55
+  - first:
+      213: 9067545243901939641
+    second: Splash_Edge_L
+  - first:
+      213: -2411135954033872396
+    second: Splash_Mid
+  - first:
+      213: 1473066997198299683
+    second: SplashHill_58
+  - first:
+      213: 5937361183602647907
+    second: SplashHill_59
+  - first:
+      213: 2861466729907568714
+    second: SplashHill_60
+  - first:
+      213: -938520528612881633
+    second: SplashHill_61
+  - first:
+      213: 2799912892850214749
+    second: SplashHill_62
+  - first:
+      213: -4994651129529565783
+    second: SplashHill_63
+  - first:
+      213: -5596275278513119535
+    second: SplashHill_64
+  - first:
+      213: 1586621867906393429
+    second: SplashHill_65
+  - first:
+      213: -1255376092969933366
+    second: SplashHill_66
+  - first:
+      213: 5656868264361056795
+    second: SplashHill_67
+  - first:
+      213: 195502851817184393
+    second: SplashHill_68
+  - first:
+      213: 2096395893597570304
+    second: SplashHill_69
+  - first:
+      213: -597344085222371200
+    second: SplashHill_70
+  - first:
+      213: 4805647925564303866
+    second: SplashHill_71
+  - first:
+      213: -5860342748650686689
+    second: SplashHill_72
+  - first:
+      213: 307473978929381446
+    second: SplashHill_73
+  - first:
+      213: 4018378285696065049
+    second: SplashHill_74
+  - first:
+      213: 2537592891158040517
+    second: SplashHill_75
+  - first:
+      213: 8715692717605483165
+    second: SplashHill_76
+  - first:
+      213: -3297758766427891048
+    second: SplashHill_77
+  - first:
+      213: -6477462440691571791
+    second: SplashHill_78
+  - first:
+      213: 2210396131467448706
+    second: SplashHill_79
+  - first:
+      213: 2912246808523449303
+    second: SplashHill_80
+  - first:
+      213: -945059952613741772
+    second: SplashHill_81
+  - first:
+      213: 4718686348976201350
+    second: SplashHill_82
+  - first:
+      213: -4606852378592747146
+    second: SplashHill_83
+  - first:
+      213: -2641782954175697442
+    second: SplashHill_84
+  - first:
+      213: 4635754183444640432
+    second: SplashHill_85
+  - first:
+      213: -4629121027361220023
+    second: SplashHill_86
+  - first:
+      213: 6745006862706440568
+    second: SplashHill_87
+  - first:
+      213: -734272657512942911
+    second: SplashHill_88
+  - first:
+      213: 3757251237159082277
+    second: SplashHill_89
+  - first:
+      213: 2528293639019415658
+    second: SplashHill_90
+  - first:
+      213: -6701484629569576046
+    second: SplashHill_91
+  - first:
+      213: -3827986329000002670
+    second: SplashHill_92
+  - first:
+      213: 7005455253741582794
+    second: SplashHill_93
+  - first:
+      213: -6345228627779580899
+    second: SplashHill_94
+  - first:
+      213: -9215591578555845076
+    second: SplashHill_95
+  - first:
+      213: 1050154559350304694
+    second: SplashHill_96
+  - first:
+      213: 3910607417379864588
+    second: SplashHill_97
+  - first:
+      213: -714344792334049348
+    second: SplashHill_98
+  - first:
+      213: -2079632011362207504
+    second: SplashHill_99
+  - first:
+      213: -740519339777345669
+    second: SplashHill_100
+  - first:
+      213: -2301901865876410636
+    second: SplashHill_101
+  - first:
+      213: -4827028623414642190
+    second: SplashHill_102
+  - first:
+      213: -17886438780775817
+    second: SplashHill_103
+  - first:
+      213: -3893959890661159366
+    second: SplashHill_104
+  - first:
+      213: -3049281433121182627
+    second: SplashHill_105
+  - first:
+      213: -4273650625792126833
+    second: SplashHill_106
+  - first:
+      213: 3467796727745784411
+    second: SplashHill_107
+  - first:
+      213: 4766834340058380677
+    second: SplashHill_108
+  - first:
+      213: 2315885431809196512
+    second: SplashHill_109
+  - first:
+      213: -3550955383575602202
+    second: SplashHill_110
+  - first:
+      213: 1340025991242218485
+    second: SplashHill_111
+  - first:
+      213: -5033441448309598393
+    second: SplashHill_112
+  - first:
+      213: 5886983911913086774
+    second: SplashHill_113
+  - first:
+      213: 6904242239552695485
+    second: SplashHill_114
+  - first:
+      213: -960998654129986491
+    second: SplashHill_115
+  - first:
+      213: 2182900859199018266
+    second: SplashHill_116
+  - first:
+      213: 5801306724464972614
+    second: SplashHill_117
+  - first:
+      213: -3790106256133945593
+    second: SplashHill_118
+  - first:
+      213: 6770398272704883711
+    second: SplashHill_119
+  - first:
+      213: 715164403947726519
+    second: SplashHill_120
+  - first:
+      213: -4120415188198239179
+    second: SplashHill_121
+  - first:
+      213: 8088545556208322827
+    second: SplashHill_122
+  - first:
+      213: -3821680704254279911
+    second: SplashHill_123
+  - first:
+      213: 3549285755549550571
+    second: SplashHill_124
+  - first:
+      213: 3042174343315860101
+    second: SplashHill_125
+  - first:
+      213: -1177380177178462700
+    second: SplashHill_126
+  - first:
+      213: 7598121525541686888
+    second: SplashHill_127
+  - first:
+      213: -1320990092990318988
+    second: SplashHill_128
+  - first:
+      213: 523106100204401244
+    second: SplashHill_129
+  - first:
+      213: 2485240914743507481
+    second: SplashHill_130
+  - first:
+      213: 4989082238760917123
+    second: SplashHill_131
+  - first:
+      213: -9203442394914199933
+    second: SplashHill_132
+  - first:
+      213: 4479747353705966164
+    second: SplashHill_133
+  - first:
+      213: 6137053400989043932
+    second: SplashHill_134
+  - first:
+      213: -2855354547958286296
+    second: SplashHill_135
+  - first:
+      213: -7216033249681449789
+    second: SplashHill_136
+  - first:
+      213: -7596891814599201363
+    second: SplashHill_137
+  - first:
+      213: -8633624315083898784
+    second: SplashHill_138
+  - first:
+      213: 7399834324005306929
+    second: SplashHill_139
+  - first:
+      213: 3160793262912308551
+    second: SplashHill_140
+  - first:
+      213: 3841747454464667671
+    second: SplashHill_141
+  - first:
+      213: -4393459010741011520
+    second: SplashHill_142
+  - first:
+      213: -1364422296842114756
+    second: SplashHill_143
+  - first:
+      213: 1572309272206210133
+    second: SplashHill_144
+  - first:
+      213: 7394974744039926722
+    second: SplashHill_145
+  - first:
+      213: -1898376319261423258
+    second: SplashHill_146
+  - first:
+      213: 3893273049492284523
+    second: SplashHill_147
+  - first:
+      213: 6395556927611204018
+    second: SplashHill_148
+  - first:
+      213: -7225666371475686414
+    second: SplashHill_149
+  - first:
+      213: 218679617340677126
+    second: SplashHill_150
+  - first:
+      213: -4785822094157663967
+    second: SplashHill_151
+  - first:
+      213: -4583080312836776507
+    second: SplashHill_152
+  - first:
+      213: -5921176542697918080
+    second: SplashHill_153
+  - first:
+      213: -2117730527257656320
+    second: SplashHill_154
+  - first:
+      213: 1270695869015461912
+    second: SplashHill_155
+  - first:
+      213: 9205779073717613896
+    second: SplashHill_156
+  - first:
+      213: -122723045294089134
+    second: SplashHill_157
+  - first:
+      213: 777004048825871365
+    second: SplashHill_158
+  - first:
+      213: -5559907974205187351
+    second: SplashHill_159
+  - first:
+      213: -5855702395040003821
+    second: SplashHill_160
+  - first:
+      213: 7250593063198474636
+    second: SplashHill_161
+  - first:
+      213: -4020830061150921025
+    second: SplashHill_162
+  - first:
+      213: 5896227475506818742
+    second: SplashHill_163
+  - first:
+      213: -4311402720381235910
+    second: SplashHill_164
+  - first:
+      213: 6570081084875850861
+    second: SplashHill_165
+  - first:
+      213: 347326671052623485
+    second: SplashHill_166
+  - first:
+      213: -1342609706032223576
+    second: SplashHill_167
+  - first:
+      213: -1366301101212446140
+    second: SplashHill_168
+  - first:
+      213: -3208119977274032749
+    second: SplashHill_169
+  - first:
+      213: -1755167959809387249
+    second: SplashHill_170
+  - first:
+      213: -819276571452005261
+    second: SplashHill_171
+  - first:
+      213: 8143033115005978140
+    second: SplashHill_172
+  - first:
+      213: -6882751522021852314
+    second: SplashHill_173
+  - first:
+      213: -4860540597463179514
+    second: SplashHill_174
+  - first:
+      213: -2952738845520069285
+    second: SplashHill_175
+  - first:
+      213: -360139687571226951
+    second: SplashHill_176
+  - first:
+      213: 4793874379763876193
+    second: SplashHill_177
+  - first:
+      213: 5357720037739867010
+    second: SplashHill_178
+  - first:
+      213: 7752014071316057856
+    second: SplashHill_179
+  - first:
+      213: -1243526186741030036
+    second: SplashHill_180
+  - first:
+      213: -5492666736658323937
+    second: SplashHill_181
+  - first:
+      213: 9022513449316235241
+    second: SplashHill_182
+  - first:
+      213: 1789785461404280743
+    second: SplashHill_183
+  - first:
+      213: -2988579225845379438
+    second: SplashHill_184
+  - first:
+      213: -166917499915256116
+    second: SplashHill_185
+  - first:
+      213: 6311183857404249946
+    second: SplashHill_186
+  - first:
+      213: -9129066126521429186
+    second: SplashHill_187
+  - first:
+      213: 5468190248363331328
+    second: SplashHill_188
+  - first:
+      213: -7606099974582342776
+    second: SplashHill_189
+  - first:
+      213: 7576482646449419200
+    second: SplashHill_190
+  - first:
+      213: 1177233079905545698
+    second: SplashHill_191
+  - first:
+      213: -2020472661752223146
+    second: SplashHill_192
+  - first:
+      213: 6114302485771525717
+    second: SplashHill_193
+  - first:
+      213: 3035360470418972046
+    second: SplashHill_194
+  - first:
+      213: -5434427642233928879
+    second: SplashHill_195
+  - first:
+      213: -7053174801066523466
+    second: SplashHill_196
+  - first:
+      213: 7965999031859115468
+    second: SplashHill_197
+  - first:
+      213: 3196198728070690590
+    second: SplashHill_198
+  - first:
+      213: 8876812102572819446
+    second: SplashHill_199
+  - first:
+      213: 6605378578548948725
+    second: SplashHill_200
+  - first:
+      213: 4332418219165751438
+    second: SplashHill_201
+  - first:
+      213: 3384808615127912568
+    second: SplashHill_202
+  - first:
+      213: 8019922473881744896
+    second: SplashHill_203
+  - first:
+      213: 7977806295793263497
+    second: SplashHill_204
+  - first:
+      213: -497219286236516010
+    second: SplashHill_205
+  - first:
+      213: 5668896102298508804
+    second: SplashHill_206
+  - first:
+      213: 2331999199136911406
+    second: SplashHill_207
+  - first:
+      213: 2205355011785315121
+    second: SplashHill_208
+  - first:
+      213: 3260831816409955633
+    second: SplashHill_209
+  - first:
+      213: -4329346547708483870
+    second: SplashHill_210
+  - first:
+      213: -1796101558210289392
+    second: SplashHill_211
+  - first:
+      213: 6241192556193033675
+    second: SplashHill_212
+  - first:
+      213: 6793361993925168351
+    second: SplashHill_213
+  - first:
+      213: -3316874912912504388
+    second: SplashHill_214
+  - first:
+      213: 7204549473098007787
+    second: SplashHill_215
+  - first:
+      213: 6930164802495132191
+    second: SplashHill_216
+  - first:
+      213: -9126738769346880413
+    second: SplashHill_217
+  - first:
+      213: 2803267554610984111
+    second: SplashHill_218
+  - first:
+      213: 6590470912059564631
+    second: SplashHill_219
+  - first:
+      213: 4068837390374111632
+    second: SplashHill_220
+  - first:
+      213: -5887671831608880859
+    second: SplashHill_221
+  - first:
+      213: 1974808787274928258
+    second: SplashHill_222
+  - first:
+      213: 3172947766520691215
+    second: SplashHill_223
+  - first:
+      213: 1090317388036473243
+    second: SplashHill_224
+  - first:
+      213: -422380713941748013
+    second: SplashHill_225
+  - first:
+      213: -1886774619807889789
+    second: SplashHill_226
+  - first:
+      213: -1507620378376685399
+    second: SplashHill_227
+  - first:
+      213: -5444744863563174870
+    second: SplashHill_228
+  - first:
+      213: -5201151799055367677
+    second: SplashHill_229
+  - first:
+      213: -9017197496460821476
+    second: SplashHill_230
+  - first:
+      213: 859244104573860570
+    second: SplashHill_231
+  - first:
+      213: -4362411278362397675
+    second: SplashHill_232
+  - first:
+      213: 6945347770642229343
+    second: SplashHill_233
+  - first:
+      213: 5888653134308596230
+    second: SplashHill_234
+  - first:
+      213: -6041048126839199948
+    second: SplashHill_235
+  - first:
+      213: 85403301026105606
+    second: SplashHill_236
+  - first:
+      213: 5732457100468346782
+    second: SplashHill_237
+  - first:
+      213: 7809291350243320904
+    second: SplashHill_238
+  - first:
+      213: -2412853691675688063
+    second: SplashHill_239
+  - first:
+      213: 1702189768591599391
+    second: SplashHill_240
+  - first:
+      213: -1469795797435883634
+    second: SplashHill_241
+  - first:
+      213: 6119798289288428753
+    second: SplashHill_242
+  - first:
+      213: 2926894256495744409
+    second: SplashHill_243
+  - first:
+      213: -7653826185134305245
+    second: SplashHill_244
+  - first:
+      213: -5767697832933898878
+    second: SplashHill_245
+  - first:
+      213: 574592846687341139
+    second: SplashHill_246
+  - first:
+      213: 6907354570716475847
+    second: SplashHill_247
+  - first:
+      213: 7708973186560820617
+    second: SplashHill_248
+  - first:
+      213: 4544839807229117841
+    second: SplashHill_249
+  - first:
+      213: 6262289830929017313
+    second: SplashHill_250
+  - first:
+      213: -7698178355159349877
+    second: SplashHill_251
+  - first:
+      213: 7207253253587725167
+    second: SplashHill_252
+  - first:
+      213: -4315789030498162085
+    second: SplashHill_253
+  - first:
+      213: 9069226832684101196
+    second: SplashHill_254
+  - first:
+      213: 3198529725591670697
+    second: SplashHill_255
+  - first:
+      213: -2286841392288118087
+    second: SplashHill_256
+  - first:
+      213: 5324174898647798017
+    second: SplashHill_257
+  - first:
+      213: -9194297718846198671
+    second: SplashHill_258
+  - first:
+      213: 3961808346114907948
+    second: SplashHill_259
+  - first:
+      213: 2922568169089153727
+    second: SplashHill_260
+  - first:
+      213: 7446742759954816950
+    second: SplashHill_261
+  - first:
+      213: 1283273039215399829
+    second: SplashHill_262
+  - first:
+      213: -5141692946338751168
+    second: SplashHill_263
+  - first:
+      213: -4994980142285003879
+    second: SplashHill_264
+  - first:
+      213: 3917087241142708836
+    second: SplashHill_265
+  - first:
+      213: -78069352259581943
+    second: SplashHill_266
+  - first:
+      213: 5574919572120966849
+    second: SplashHill_267
+  - first:
+      213: 4402854100416696482
+    second: SplashHill_268
+  - first:
+      213: 1957655989982015668
+    second: SplashHill_269
+  - first:
+      213: 6502365651467484625
+    second: SplashHill_270
+  - first:
+      213: -2669504869574111016
+    second: SplashHill_271
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Splash_BG
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 844
+        width: 513
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14d47fca6e345880800000000000000
+      internalID: -8623198758039661541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af792455c5b306e0800000000000000
+      internalID: -1872453160930803800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af373b86409d45a0800000000000000
+      internalID: -6535408851586957403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25838168137ab5c0800000000000000
+      internalID: -4198917154017147604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd3a10f31fa07f0800000000000000
+      internalID: -645438343661495160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c121517ff6b1370800000000000000
+      internalID: 8294346245734013988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7673deb0bb7eedc0800000000000000
+      internalID: -3607810252431198594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263549cd511fc0de0800000000000000
+      internalID: -1365451510802787486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ec45eedb93c150800000000000000
+      internalID: 5891724119162808350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49b4f24cb825de0800000000000000
+      internalID: -1345859663907023643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c0b3379308980f0800000000000000
+      internalID: -1114218448562746293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077aac8e95b654f90800000000000000
+      internalID: -6970046814384117904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed32daf663cbb040800000000000000
+      internalID: 4664536686134443502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f0c9628a78ce70800000000000000
+      internalID: 9135686544659640664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c5a77429d5e7650800000000000000
+      internalID: 6232521817173154859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1058
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968f7e92863c09c0800000000000000
+      internalID: -3959730037732702571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef48fb54041ec2b0800000000000000
+      internalID: -5562486480800559130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6befb9c3c23404880800000000000000
+      internalID: -8628823028767392074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9527a8ebd52dcb450800000000000000
+      internalID: 6105986494878085721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3047a88da304570800000000000000
+      internalID: 8448817602657256361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5903e74e4241bd90800000000000000
+      internalID: -7083807834896135844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930348436a446f050800000000000000
+      internalID: 5833925847941394489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d18d73c8b2ca80800000000000000
+      internalID: -8447986801229834788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d27fc33634de40800000000000000
+      internalID: 5680224626172678827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash_Chk1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1026
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2393b8698719740800000000000000
+      internalID: 5157035636292137661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a02e0d964439c6d0800000000000000
+      internalID: -2969785001386827613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e50c88c4dde850800000000000000
+      internalID: 6408011802625826994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f35cd7d8180f58e0800000000000000
+      internalID: -1702633231328979979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb2a6ed199ed110800000000000000
+      internalID: 1287634897177066496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04aae3812730100800000000000000
+      internalID: 73027467424186618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa33e3eaea5e77c40800000000000000
+      internalID: 5510125207521473455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc3d8569f6e0980800000000000000
+      internalID: -8570790349313421922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fb6128265eddc80800000000000000
+      internalID: -8296222727294500986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0565e5b00774760800000000000000
+      internalID: 7442040103382700253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b08e6ade97872c0800000000000000
+      internalID: -4433659771531818217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f47719134814630800000000000000
+      internalID: 3909551299963080607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2174245f7e888b0b0800000000000000
+      internalID: -5712665597485889774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44ed706f8a5fd00800000000000000
+      internalID: 1005895866434602222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744f9950eace2f10800000000000000
+      internalID: 2246956329029551229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c90c6bb7cab55dc0800000000000000
+      internalID: -3650806555908240956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash_Chk2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 992
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ee636e457c6370800000000000000
+      internalID: 8317151591382574597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash_Edge_R
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 909
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc9813441dce0890800000000000000
+      internalID: -7489823643361829698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdd092f534c53910800000000000000
+      internalID: 1816573760695754182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799024575fa259490800000000000000
+      internalID: -7740233150843713129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66df8d09b6440b0800000000000000
+      internalID: -5745348954757962004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffea82316a763620800000000000000
+      internalID: 2753522780062019570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c711657953742c0800000000000000
+      internalID: -4447527182904755185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 930
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d69394a178679900800000000000000
+      internalID: 691135905126389460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f5d1f2e8af74f0800000000000000
+      internalID: -828758113739475464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed0c838d2b75e90800000000000000
+      internalID: -7036959251008266585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392771a3ea8263280800000000000000
+      internalID: -9064012471272508781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaef0259b0990300800000000000000
+      internalID: 218865182524304038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbdef90efb337ad0800000000000000
+      internalID: -2705752988844106805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e92393917ebc8080800000000000000
+      internalID: -9183756145098806811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a212c0df3bb3af360800000000000000
+      internalID: 7204136198163145002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaee5e57b6089610800000000000000
+      internalID: 1628058649926494889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash_Edge_L
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 910
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfce8f7b5466dd70800000000000000
+      internalID: 9067545243901939641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash_Mid
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 912
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f173a2ef9ce98ed0800000000000000
+      internalID: -2411135954033872396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3222b5a11a2617410800000000000000
+      internalID: 1473066997198299683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36324dbf98eb56250800000000000000
+      internalID: 5937361183602647907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a404db484d8f5b720800000000000000
+      internalID: 2861466729907568714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0e9d3d84b9f2f0800000000000000
+      internalID: -938520528612881633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d579f5401f94bd620800000000000000
+      internalID: 2799912892850214749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 866
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf26fa24f6faab0800000000000000
+      internalID: -4994651129529565783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dedce6d8490652b0800000000000000
+      internalID: -5596275278513119535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556d6dbe20d40610800000000000000
+      internalID: 1586621867906393429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5620f3812049ee0800000000000000
+      internalID: -1255376092969933366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1adb6e07bb318e40800000000000000
+      internalID: 5656868264361056795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c9323dec096b200800000000000000
+      internalID: 195502851817184393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005887245f4e71d10800000000000000
+      internalID: 2096395893597570304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080d3a728bec5b7f0800000000000000
+      internalID: -597344085222371200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96adea35711b240800000000000000
+      internalID: 4805647925564303866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b3acc151ebaea0800000000000000
+      internalID: -5860342748650686689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64003cb64fd544400800000000000000
+      internalID: 307473978929381446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9e04b2c524c730800000000000000
+      internalID: 4018378285696065049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf080e2a47573320800000000000000
+      internalID: 2537592891158040517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d927554595c54f870800000000000000
+      internalID: 8715692717605483165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a922ccfd10c32d0800000000000000
+      internalID: -3297758766427891048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e4a0ba3e6b16a0800000000000000
+      internalID: -6477462440691571791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 802
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d3050297ecae10800000000000000
+      internalID: 2210396131467448706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32e48ea016a6820800000000000000
+      internalID: 2912246808523449303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba201faf872e2f0800000000000000
+      internalID: -945059952613741772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1635db342c7140800000000000000
+      internalID: 4718686348976201350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e0597b2c2110c0800000000000000
+      internalID: -4606852378592747146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddeca26660865bd0800000000000000
+      internalID: -2641782954175697442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2bf3a5ed1855040800000000000000
+      internalID: 4635754183444640432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad7d5a3fe02cfb0800000000000000
+      internalID: -4629121027361220023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879703b41041b9d50800000000000000
+      internalID: 6745006862706440568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b8a888e65fc5f0800000000000000
+      internalID: -734272657512942911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52993cae710742430800000000000000
+      internalID: 3757251237159082277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68c1a15bad461320800000000000000
+      internalID: 2528293639019415658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e3c24c3b8ff2a0800000000000000
+      internalID: -6701484629569576046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b37ee17b240eac0800000000000000
+      internalID: -3827986329000002670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93921df60683160800000000000000
+      internalID: 7005455253741582794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c0f867e2831f7a0800000000000000
+      internalID: -6345228627779580899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26f81d1944ab1080800000000000000
+      internalID: -9215591578555845076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe45df106e29e00800000000000000
+      internalID: 1050154559350304694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004fe01ab4454630800000000000000
+      internalID: 3910607417379864588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf57c532332616f0800000000000000
+      internalID: -714344792334049348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8793b34b9a323e0800000000000000
+      internalID: -2079632011362207504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77b34b759529b5f0800000000000000
+      internalID: -740519339777345669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fea0a0f2700e00e0800000000000000
+      internalID: -2301901865876410636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f93abcaa03f20db0800000000000000
+      internalID: -4827028623414642190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772dc22f06470cff0800000000000000
+      internalID: -17886438780775817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ec58b4c10e5f9c0800000000000000
+      internalID: -3893959890661159366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2e9e31b6cea5d0800000000000000
+      internalID: -3049281433121182627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d88b0661f0b4c0800000000000000
+      internalID: -4273650625792126833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aac8e20c6102030800000000000000
+      internalID: 3467796727745784411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58930569392372240800000000000000
+      internalID: 4766834340058380677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14d77b78da32020800000000000000
+      internalID: 2315885431809196512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb17b474e878bec0800000000000000
+      internalID: -3550955383575602202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb78cd0a8ab89210800000000000000
+      internalID: 1340025991242218485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74757cbcbaf952ab0800000000000000
+      internalID: -5033441448309598393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd4046da4c2b150800000000000000
+      internalID: 5886983911913086774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc29c39cbbc0df50800000000000000
+      internalID: 6904242239552695485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54424fec0d8d9a2f0800000000000000
+      internalID: -960998654129986491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15d37414c83b4e10800000000000000
+      internalID: 2182900859199018266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d1d0bab1628050800000000000000
+      internalID: 5801306724464972614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707862ed076d66bc0800000000000000
+      internalID: -3790106256133945593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2e70ab5945fd50800000000000000
+      internalID: 6770398272704883711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ee4d7c36cce900800000000000000
+      internalID: 715164403947726519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d15c973851d6c0800000000000000
+      internalID: -4120415188198239179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b098c531459404070800000000000000
+      internalID: 8088545556208322827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f75f9c5a9a6fac0800000000000000
+      internalID: -3821680704254279911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be782e9f698914130800000000000000
+      internalID: 3549285755549550571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a26267279f73a20800000000000000
+      internalID: 3042174343315860101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416f0b587fa19afe0800000000000000
+      internalID: -1177380177178462700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 610
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e492a5543f17960800000000000000
+      internalID: 7598121525541686888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47670836286eaade0800000000000000
+      internalID: -1320990092990318988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f5820a32724700800000000000000
+      internalID: 523106100204401244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91abd80d1795d7220800000000000000
+      internalID: 2485240914743507481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881e84ecd7cc3540800000000000000
+      internalID: 4989082238760917123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866e5c57edc64080800000000000000
+      internalID: -9203442394914199933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae325cb724b2e30800000000000000
+      internalID: 4479747353705966164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc0e8d7d813b2550800000000000000
+      internalID: 6137053400989043932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828762dba2ebf58d0800000000000000
+      internalID: -2855354547958286296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc5459ddff7bdb90800000000000000
+      internalID: -7216033249681449789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadedb9052b629690800000000000000
+      internalID: -7596891814599201363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060cf37ad643f2880800000000000000
+      internalID: -8633624315083898784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13244179c1e71b660800000000000000
+      internalID: 7399834324005306929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745065cd9b46ddb20800000000000000
+      internalID: 3160793262912308551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b02494f0a05530800000000000000
+      internalID: 3841747454464667671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbfa89ae4c4703c0800000000000000
+      internalID: -4393459010741011520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 546
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c396a196629901de0800000000000000
+      internalID: -1364422296842114756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55477eed3f6f1d510800000000000000
+      internalID: 1572309272206210133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb2c75795a30a660800000000000000
+      internalID: 7394974744039926722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669c860bbcc97a5e0800000000000000
+      internalID: -1898376319261423258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e698063fa70630800000000000000
+      internalID: 3893273049492284523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1fd0bf32591c850800000000000000
+      internalID: 6395556927611204018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb4b6e7b649bb90800000000000000
+      internalID: -7225666371475686414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c953f04f7e80300800000000000000
+      internalID: 218679617340677126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12134876928559db0800000000000000
+      internalID: -4785822094157663967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd1748dcb0a560c0800000000000000
+      internalID: -4583080312836776507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0817d106e41c3dda0800000000000000
+      internalID: -5921176542697918080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0048ec04e4f4c92e0800000000000000
+      internalID: -2117730527257656320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8101932192b62a110800000000000000
+      internalID: 1270695869015461912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b9a11b4f71cf70800000000000000
+      internalID: 9205779073717613896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cdd7f5a000c4ef0800000000000000
+      internalID: -122723045294089134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6e4fc01978ca00800000000000000
+      internalID: 777004048825871365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 482
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea53a5b72d37d2b0800000000000000
+      internalID: -5559907974205187351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198c3152bd5cbea0800000000000000
+      internalID: -5855702395040003821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814bd6c9f74f9460800000000000000
+      internalID: 7250593063198474636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe13e6dc542338c0800000000000000
+      internalID: -4020830061150921025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6b7046ab93d150800000000000000
+      internalID: 5896227475506818742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d06009112da24c0800000000000000
+      internalID: -4311402720381235910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c989dfed9d2b50800000000000000
+      internalID: 6570081084875850861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e4c1164c3f1d400800000000000000
+      internalID: 347326671052623485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa25f7f5971e5de0800000000000000
+      internalID: -1342609706032223576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d10e236ce90de0800000000000000
+      internalID: -1366301101212446140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d3fb5c0e77a73d0800000000000000
+      internalID: -3208119977274032749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f051a623a0464a7e0800000000000000
+      internalID: -1755167959809387249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374adc98c4851a4f0800000000000000
+      internalID: -819276571452005261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c168c26797dd10170800000000000000
+      internalID: 8143033115005978140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bbb9405fd8b70a0800000000000000
+      internalID: -6882751522021852314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f97df2414eb8cb0800000000000000
+      internalID: -4860540597463179514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d774e0aa3c507d0800000000000000
+      internalID: -2952738845520069285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9befbccbcd6800bf0800000000000000
+      internalID: -360139687571226951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610caf6953478240800000000000000
+      internalID: 4793874379763876193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b2a77ecf17a5a40800000000000000
+      internalID: 5357720037739867010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8f96d9bfa49b60800000000000000
+      internalID: 7752014071316057856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a76a858b1ebee0800000000000000
+      internalID: -1243526186741030036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1660e354b026c3b0800000000000000
+      internalID: -5492666736658323937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7bda7cd28663d70800000000000000
+      internalID: 9022513449316235241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7292bf46896d810800000000000000
+      internalID: 1789785461404280743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecf5c370f6686d0800000000000000
+      internalID: -2988579225845379438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce31ce0b6dfeadf0800000000000000
+      internalID: -166917499915256116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5782ccb744d59750800000000000000
+      internalID: 6311183857404249946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3393adc9ba0f4180800000000000000
+      internalID: -9129066126521429186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f83f52f0ae2eb40800000000000000
+      internalID: 5468190248363331328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_189
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b69e83f54b17690800000000000000
+      internalID: -7606099974582342776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3778433d2152960800000000000000
+      internalID: 7576482646449419200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_191
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edeb99bf3f565010800000000000000
+      internalID: 1177233079905545698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aeedda1d6d5f3e0800000000000000
+      internalID: -2020472661752223146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e13b147bd5ad450800000000000000
+      internalID: 6114302485771525717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd59c0444cf1a20800000000000000
+      internalID: 3035360470418972046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153451b2ad80594b0800000000000000
+      internalID: -5434427642233928879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b481b343e61e1e90800000000000000
+      internalID: -7053174801066523466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5711fe9e9ec8e60800000000000000
+      internalID: 7965999031859115468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17753a1fcd2b5c20800000000000000
+      internalID: 3196198728070690590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3cdbf6395c03b70800000000000000
+      internalID: 8876812102572819446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe726502d40bab50800000000000000
+      internalID: 6605378578548948725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e881ecb8a67df1c30800000000000000
+      internalID: 4332418219165751438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709161808149fe20800000000000000
+      internalID: 3384808615127912568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b4e5affc7c4f60800000000000000
+      internalID: 8019922473881744896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e1abce8cd6be60800000000000000
+      internalID: 7977806295793263497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651366c81b58919f0800000000000000
+      internalID: -497219286236516010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e591e48f6fbae40800000000000000
+      internalID: 5668896102298508804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 290
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201d098aecec5020800000000000000
+      internalID: 2331999199136911406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1335711e2befa9e10800000000000000
+      internalID: 2205355011785315121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d3869a24dc04d20800000000000000
+      internalID: 3260831816409955633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a542b0421be3c0800000000000000
+      internalID: -4329346547708483870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a9522627f217e0800000000000000
+      internalID: -1796101558210289392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda2b6009b2d9650800000000000000
+      internalID: 6241192556193033675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8c8e9dbed64e50800000000000000
+      internalID: 6793361993925168351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9027b17d718f1d0800000000000000
+      internalID: -3316874912912504388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be40cbe0393bbf360800000000000000
+      internalID: 7204549473098007787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1233a79b24ec2060800000000000000
+      internalID: 6930164802495132191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1b4fd17f475180800000000000000
+      internalID: -9126738769346880413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa437f21df437e620800000000000000
+      internalID: 2803267554610984111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_219
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752eadf606e067b50800000000000000
+      internalID: 6590470912059564631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_220
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09983168c0a677830800000000000000
+      internalID: 4068837390374111632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_221
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52111e2d9a9ca4ea0800000000000000
+      internalID: -5887671831608880859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28097d8012ee76b10800000000000000
+      internalID: 1974808787274928258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 226
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ab552ce23980c20800000000000000
+      internalID: 3172947766520691215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91885e33e5912f00800000000000000
+      internalID: 1090317388036473243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b6818af6632af0800000000000000
+      internalID: -422380713941748013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386c027da74d0d5e0800000000000000
+      internalID: -1886774619807889789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b7bae04bd31be0800000000000000
+      internalID: -1507620378376685399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2fa2e4616074b0800000000000000
+      internalID: -5444744863563174870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302cb62eefbc1d7b0800000000000000
+      internalID: -5201151799055367677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_230
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c39e1f6aa7cd280800000000000000
+      internalID: -9017197496460821476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada397ce5f5aceb00800000000000000
+      internalID: 859244104573860570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143d0d2e0a9573c0800000000000000
+      internalID: -4362411278362397675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586ea6dff4d26060800000000000000
+      internalID: 6945347770642229343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a54f383d2b8b150800000000000000
+      internalID: 5888653134308596230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_235
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e5b84cb2e92ca0800000000000000
+      internalID: -6041048126839199948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_236
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098e4c89d96f2100800000000000000
+      internalID: 85403301026105606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd49b6c57cd8f40800000000000000
+      internalID: 5732457100468346782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844a8ce8b1d206c60800000000000000
+      internalID: 7809291350243320904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_239
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834eace952d38ed0800000000000000
+      internalID: -2412853691675688063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e43173946f9710800000000000000
+      internalID: 1702189768591599391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd871728c3a9be0800000000000000
+      internalID: -1469795797435883634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc741abe14ede450800000000000000
+      internalID: 6119798289288428753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955f85a1da6e9820800000000000000
+      internalID: 2926894256495744409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3209c76e2a528c590800000000000000
+      internalID: -7653826185134305245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854f28216505ffa0800000000000000
+      internalID: -5767697832933898878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a8745562d59f700800000000000000
+      internalID: 574592846687341139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f935a26adbdf50800000000000000
+      internalID: 6907354570716475847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98508ffe446cbfa60800000000000000
+      internalID: 7708973186560820617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19542fe99b3821f30800000000000000
+      internalID: 4544839807229117841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a0151c6f18e650800000000000000
+      internalID: 6262289830929017313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85402b92939a2590800000000000000
+      internalID: -7698178355159349877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bef5206ae450460800000000000000
+      internalID: 7207253253587725167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a21a72ebc3b14c0800000000000000
+      internalID: -4315789030498162085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ea395e0cd5cdd70800000000000000
+      internalID: 9069226832684101196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 98
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4b61c6d5736c20800000000000000
+      internalID: 3198529725591670697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac103bed18340e0800000000000000
+      internalID: -2286841392288118087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_257
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10114f39cd443e940800000000000000
+      internalID: 5324174898647798017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cecfc20fa476080800000000000000
+      internalID: -9194297718846198671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_259
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5b5243bb2bf630800000000000000
+      internalID: 3961808346114907948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_260
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3c6ee34c0f8820800000000000000
+      internalID: 2922568169089153727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_261
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf91dce515285760800000000000000
+      internalID: 7446742759954816950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_262
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5931544b70a1fc110800000000000000
+      internalID: 1283273039215399829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_263
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd855d18905a8b0800000000000000
+      internalID: -5141692946338751168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_264
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e8fe66044eaab0800000000000000
+      internalID: -4994980142285003879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_265
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa68a971a4c5630800000000000000
+      internalID: 3917087241142708836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_266
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90809b67654aaeef0800000000000000
+      internalID: -78069352259581943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_267
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c694ab40d71e5d40800000000000000
+      internalID: 5574919572120966849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_268
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0953d1a741a1d30800000000000000
+      internalID: 4402854100416696482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_269
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b03b4330cdfa2b10800000000000000
+      internalID: 1957655989982015668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_270
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddbb67eb1b0d3a50800000000000000
+      internalID: 6502365651467484625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SplashHill_271
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d01cdaf67304fad0800000000000000
+      internalID: -2669504869574111016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
