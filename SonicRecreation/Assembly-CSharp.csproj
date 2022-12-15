@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\My Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\My Scripts\SpillRingManager.cs" />
     <Compile Include="Assets\Platformer Art Pack\Scripts\Beetle.cs" />
     <Compile Include="Assets\Platformer Art Pack\Scripts\Camera.cs" />
     <Compile Include="Assets\Platformer Art Pack\Scripts\PhysicsObject.cs" />

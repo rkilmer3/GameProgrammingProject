@@ -9,6 +9,7 @@ TagManager:
   - Floor
   - Rings
   - Enemy
+  - Goal Ring
   layers:
   - Default
   - TransparentFX
