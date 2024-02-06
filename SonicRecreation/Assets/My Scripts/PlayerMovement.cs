@@ -1,16 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.InputSystem;
 using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
-    Rigidbody2D rb;
+    public Rigidbody2D rb;
     Rigidbody2D currentRB;
-    public float acceleration;
+    private float horizontal;
+    public float acceleration = 10;
     public bool isGrounded = true;
     public float jumpHeight = 5;
-    public float currentSpeed;
     public bool movementDisable = false;
     public int ringCount;
     public TMP_Text ringText;
@@ -35,12 +34,10 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         Rotation();
-        if (isGrounded == true && movementDisable == false) 
+        if (movementDisable == false) 
         {
-            float moveHorizontal = Input.GetAxis("Horizontal");
-            Vector2 movement = new Vector2(moveHorizontal, 0.0f);
-            rb.AddForce(movement * acceleration);
-            if (moveHorizontal > 0 || moveHorizontal < 0)
+            rb.velocity = new Vector2(horizontal * acceleration, rb.velocity.y);
+            if (horizontal > 0 || horizontal < 0)
             {
                 anime.SetBool("Running", true);
             }
@@ -49,23 +46,6 @@ public class PlayerMovement : MonoBehaviour
                 anime.SetBool("Running", false);
             }
         }
-
-        if (!isGrounded && movementDisable == false)
-        {
-            float moveHorizontal = Input.GetAxis("Horizontal");
-            Vector2 movement = new Vector2(moveHorizontal, 0.0f);
-            rb.AddForce(movement * 0.2f *acceleration);
-        }
-
-        if (Input.GetKeyDown(KeyCode.Space) && movementDisable == false)
-        {
-            if (isGrounded == true)
-            {
-                rb.AddForce(Vector2.up * jumpHeight, ForceMode2D.Impulse);
-            }
-            anime.SetBool("Jump", true);
-        }
-
     }
 
     void OnCollisionStay2D(Collision2D collision)
@@ -125,11 +105,11 @@ public class PlayerMovement : MonoBehaviour
 
     void Rotation()
     {
-        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
+        if (horizontal < 0)
         {
             rotation.rotation = Quaternion.Euler(0, 180, 0);
         }
-        if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
+        if (horizontal > 0)
         {
             rotation.rotation = Quaternion.Euler(0, 0, 0);
         }
@@ -149,5 +129,19 @@ public class PlayerMovement : MonoBehaviour
         int ringScore = ringCount * 100;
         int totalScore = enemyScore + ringScore;
         ringText.text = "Score:" + totalScore.ToString();
+    }
+
+    public void Movement(InputAction.CallbackContext context)
+    {
+        horizontal = context.ReadValue<Vector2>().x;
+    }
+    
+    public void Jump(InputAction.CallbackContext context)
+    {
+        if (context.performed && isGrounded)
+        {
+            rb.velocity = new Vector2(horizontal * acceleration, jumpHeight);
+            anime.SetBool("Jump", true);
+        }
     }
 }
